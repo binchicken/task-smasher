@@ -1,0 +1,12 @@
+body {
+    color: #fff;
+    background-color: #18171c
+}
+
+.main {
+    color: #18171c;
+    background-color: #fff;
+    width: 281px;
+    height: 500px;
+    margin-top: 20px
+}
