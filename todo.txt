@@ -1,0 +1,27 @@
+
+<!-- To-do list
+
+
+/* to do =================================================================== */
+
+/* CHANGES design -------------------------- */
+/* TODO ↳ choose type */
+/* TODO ↳ mock up screens in sketch */
+/* TODO ↳ create app icon */
+/* TODO ↳ decide colour palette */
+
+/* CHANGES code -------------------------- */
+/* TODO ↳ install ruby */
+/* TODO ↳ test synchronise */
+
+
+/* ideal =================================================================== */
+
+/* CHANGES animation ----------------------- */
+/* TODO ↳ wordmark load in */
+/* TODO ↳ log in/loading data */
+
+/* CHANGES backend ------------------------- */
+/* TODO ↳ investigate how to persist data without evernote api */
+
+/* ========================================================================= */
