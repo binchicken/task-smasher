@@ -1,3 +1,3 @@
 # task-smasher
 
-Punch procrastination in its stupid face.
+Gain momentum on tasks you've been putting aside for far too long
